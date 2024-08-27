@@ -127,8 +127,6 @@ CREATE TABLE clientes (
 
 Um vídeo demonstrativo foi criado para mostrar a execução e o deploy das máquinas/serviços no console da AWS, além de explicar o funcionamento da aplicação web integrada ao banco de dados MariaDB. O vídeo inclui uma visão geral da configuração da instância EC2 e da instância RDS, juntamente com a demonstração da inserção e listagem de dados nas tabelas `EMPLOYEES` e `CLIENTES`.
 
-Você pode assistir ao vídeo [clicando aqui](./Aplicacao_web_Felipe_Spina.mp4), para acessar pelo GitHub.
-
  Caso prefira, também é possível acessar o vídeo pelo google drive, clicando [AQUI](https://drive.google.com/file/d/1hvjgjzgzcI_HDr4CjQtoCZIcn9IniVTF/view?usp=sharing)
 
 ## Considerações Finais
